@@ -1,2 +1,2 @@
-# cs10-q1-prototyping-main-project
+# cs10-Q1-Prototyping-Main-Project
 sandbox repository for drawing and music programs
